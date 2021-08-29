@@ -19,6 +19,10 @@ gen
 
 # Generated files
 .idea/**/contentModel.xml
+bin/
+.classpath
+.project
+.settings/
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
